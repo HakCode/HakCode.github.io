@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: My Tech Blog
+site_url: https://HakCode.github.io/HakCode.github.io/
+theme:
+  name: 'material'
+
+nav:
+  - Home: index.md
+  - About: about.md
